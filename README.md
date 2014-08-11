@@ -44,7 +44,7 @@ Cavendo Resources
     </tr>
     <tr>
       <td>CMYK</td>
-      <td><code>81, 71, 59, 76</code></td>
+      <td><code>26, 96, 86, 24</code></td>
       <td><code>81, 71, 59, 76</code></td>
     </tr>
   </tbody>
