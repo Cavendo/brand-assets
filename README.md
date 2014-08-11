@@ -1,6 +1,6 @@
 Cavendo Resources
 ======
-
+List of Cavendo resources.
 
 ## Cavendo Logo
 
