@@ -1,2 +1,2 @@
-Cavendo Design Resources
+Cavendo Resources
 ======
