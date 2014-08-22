@@ -49,3 +49,15 @@ List of Cavendo resources.
     </tr>
   </tbody>
 </table>
+
+
+## Wireframing Elements
+
+Includes multiple vector elements including:
+ - FontAwesome Icons
+ - Entypo Icons
+ - IcoMoon Icons
+ - iPad Template
+ - iPhone Template
+ - Generic web browser template
+ - Generic UI elements
