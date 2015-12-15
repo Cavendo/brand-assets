@@ -1,63 +1,48 @@
-Cavendo Resources
+Cavendo Brand Assets
 ======
-List of Cavendo resources.
 
-## Cavendo Logo
+### Cavendo Logo
 
-#### Versions
- - [JPG](cavendo-logo/cavendo-logo.jpg "JPG")
- - [JPG Reverse](cavendo-logo/cavendo-logo-reverse.jpg "JPG Reverse")
- - [PNG Transparent](cavendo-logo/cavendo-logo-transparent.png "transparent")
- - [PNG Transparent Reverse](cavendo-logo/cavendo-logo-transparent-reverse.png "transprent reverse")
- - [AI](cavendo-logo/cavendo-logo.ai)
- - [EPS](cavendo-logo/cavendo-logo.eps)
-
-#### Color Chart
 <table>
-  <thead>
-    <tr>
-      <th>Type</th>
-      <th>Red</th>
-      <th>Black</th>
-    </tr>
-  </thead>
+  <tr>
+    <td>
+      <img src="assets/png/cavendo-logo.png" alt="cavendo logo">
+    </td>
+    <td>
+      <img src="assets/png/cavendo-logo-reverse.png" alt="cavendo logo">
+    </td>
+  </tr>
+</table>
+
+[:arrow_down: Download EPS Version](assets/png/cavendo-logo.eps "eps version")
+
+### Cavendo Logo Mark
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/png/cavendo-logo-mark.png" alt="cavendo logo mark">
+    </td>
+    <td>
+      <img src="assets/png/cavendo-logo-mark-reverse.png" alt="cavendo logo mark">
+    </td>
+  </tr>
+</table>
+
+[:arrow_down: Download EPS version](assets/png/cavendo-logo-mark.eps "eps version")
+
+### Color Chart
+<table>
   <tbody>
     <tr>
-      <td>Web</td>
-      <td><code>#97252b</code></td>
-      <td><code>#10181f</code></td>
+      <td>Red</td>
+      <td><code>#EA5455</code></td>
+      <td><code>R245, G84, B85</code></td>
     </tr>
     <tr>
-      <td>RGB</td>
-      <td><code>151, 37, 43</code></td>
-      <td><code>16, 24, 31</code></td>
-    </tr>
-    <tr>
-      <td>HSB</td>
-      <td><code>355, 75%, 59%</code></td>
-      <td><code>207, 48%, 12%</code></td>
-    </tr>
-    <tr>
-      <td>PMS</td>
-      <td><code>Pantone 7622 C</code></td>
-      <td><code>Pantone Black 6 C</code></td>
-    </tr>
-    <tr>
-      <td>CMYK</td>
-      <td><code>26, 96, 86, 24</code></td>
-      <td><code>81, 71, 59, 76</code></td>
+      <td>Blue</td>
+      <td><code>#2D4059</code></td>
+      <td><code>R45, G64, B89</code></td>
     </tr>
   </tbody>
 </table>
-
-
-## Wireframing Elements
-
-Includes multiple vector elements including:
- - FontAwesome Icons
- - Entypo Icons
- - IcoMoon Icons
- - iPad Template
- - iPhone Template
- - Generic web browser template
- - Generic UI elements
